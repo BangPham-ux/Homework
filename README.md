@@ -32,3 +32,14 @@ WHERE id IN (
   SELECT id FROM Ranked WHERE email_id > 1
 );
 ```
+#Kết quả
+```
+SELECT COUNT(*)
+FROM club_member_info_cleaned
+```
+```
+| COUNT(*) |
+|----------|
+| 2,000    |
+```
+
