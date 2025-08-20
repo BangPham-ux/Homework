@@ -1,4 +1,4 @@
-#Tạo thêm id cho các email bị trùng lặp
+#Tạo thêm email_id cho các email bị trùng lặp để dễ dàng xem qua
 ```
 SELECT
   ROWID AS id,
