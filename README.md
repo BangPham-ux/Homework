@@ -7,7 +7,7 @@ SELECT
 ```
 #Kết quả 10 dòng đầu
 ```
-| full_name        | age | marital_status | email                          | phone        | full_address                              | job_title                   | membership_date | state      | street              | city       | id |
+| full_name        | age | marital_status | email                          | phone        | full_address                              | job_title                   | membership_date | state      | street              | city       | email_id |
 |------------------|-----|----------------|--------------------------------|--------------|-------------------------------------------|-----------------------------|-----------------|------------|---------------------|------------|----|
 | ARDA ALLAM       | 36  | married        | aallam64@nps.gov               | 415-797-9281 | 86 Sunfield Parkway,San Rafael,California | Human Resources Assistant I | 1/10/2012       | California | 86 Sunfield Parkway | San Rafael | 1  |
 | ARDA ALLAM       | 36  | married        | aallam64@nps.gov               | 415-797-9281 | 86 Sunfield Parkway,San Rafael,California | Human Resources Assistant I | 1/10/2012       | California | 86 Sunfield Parkway | San Rafael | 2  |
